@@ -37,18 +37,26 @@ You don't need to create any backend, and you should store all the data inside y
  This means you can simply create an object containing all shirts and their data anywhere on your
   code. You won't create any code related to checkout or payment. The cart is purely decorative,
    and the "Proceed to checkout" button shouldn't do anything.
+ 
+You can use an interactive prototype of this test on Figma
+ [clicking here](https://www.figma.com/proto/wFzq47HoFPSWSq8tdebaNY/Tes-tee). There's a link at the 
+  bottom of the side menu that switches between desktop and mobile prototypes.
   
-We provided all the necessary assets for this test, so you can focus on your coding. We designed
- the interface using Figma, and we included a functional prototype of the project.
+You can view the complete user interface and assets on Figma
+ [clicking here](https://www.figma.com/file/wFzq47HoFPSWSq8tdebaNY/Tes-tee). It's the actual file
+  that powers the prototype above. You don't need a Figma account to view it, but we highly
+   recommend that you do create one. By doing so, you can make a copy of this file and interact
+    with it, which makes it easier to analyze fonts, colors and spacing between elements. Figma
+     is free for personal projects, and super easy to use.
+     
+Although you can easily export assets from the Figma file above, we already did this for you. All
+ shirt images and SVG icons that you'll need can be found on the `assets` folder on this repository.
+   
+The interface uses a single font family, Cabin. We used the Regular and Bold variants. You can
+ fetch it from [Google Fonts](https://fonts.google.com/specimen/Cabin).
  
-You can test the interactive prototype 
-[clicking here](https://www.figma.com/proto/wFzq47HoFPSWSq8tdebaNY/Tes-tee), and view the complete 
-user interface and assets [clicking here](https://www.figma.com/file/wFzq47HoFPSWSq8tdebaNY/Tes-tee).
- 
-Figma is super easy to use, and if you create an account, you can create a copy of our file and
- interact with it, which makes it easier to analyze fonts and measure margins, for instance. 
-  However, you don't need to create an account at all, since we exported all required assets to the 
-   `assets` folder on this repository.
+All interface parts must be responsive. It doesn't matter if your CSS is mobile or desktop-first, 
+ pick whatever feels right to you.
   
 ### The listing page
 This is the only page you need to create. It shows a simple listing of our shirts, and provides a
@@ -120,6 +128,7 @@ We'll analyze the following aspects of your test:
 - Performance optimizations
 - Code and asset size optimizations
 - Quantity of fatal, disrupting bugs
+- Quality of both mobile and desktop design implementations
 - Attention to details of the provided design
 - Use of version control (in other words, use of git)
 
