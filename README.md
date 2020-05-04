@@ -1,7 +1,9 @@
+![Tes-tee logo](/assets/logo/logo.png)
+
 # Tes-tee
 An internationally acclaimed (fake) shirt brand for developers. A collection of beautiful shirts
  designed by (fake) artists around the world. Also a (real) test for front-end developers aiming
-  for a position at Advance Comunicação, a super real full-service agency based on Fortaleza, Ceará.
+  for a position at Advance Comunicação, a super real full-service agency based in Fortaleza, Ceará.
 
 ## What's this test about?
 We created a fake brand of shirts called Tes-tee, and we need you (yes, you!) to create a simple
@@ -12,7 +14,8 @@ We created a fake brand of shirts called Tes-tee, and we need you (yes, you!) to
 Then you may proceed to the next section to learn what to do. Good luck!
 
 ### I just found this test around the internet, and it seems weird and kinda funny?
-Not sure this is a question, but if you're still reading this, you're probably an awesome developer
+Not sure this is a question, but if you're still reading this, you're probably an aw
+esome developer
  with great sense of humor, and at Advance we value those of you a lot. You can check us out at 
   [advance.com.br](https://advance.com.br). We have a job board on our home page, but you can
    always send us your resume over [Starhunters](https://starhunters.advance.com.br), even if an
@@ -24,6 +27,8 @@ Not looking for a job right now, but you still want to learn something new? We e
    your finished project, we'll be more than happy to give you feedback :)
    
 ## The task
+![Tes-tee screenshot](/assets/screenshot.png)
+
 You need to create a ~~complete ecommerce solution~~ simple responsive product listing page to our
  new in-house brand, Tes-tee. Tes-tee is known for selling awesome shirts that cost $19 each. 
   The test consists of:
