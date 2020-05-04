@@ -1,6 +1,8 @@
-![Tes-tee logo](/assets/logo/logo.png)
-
 # Tes-tee
+<p style="text-align: center">
+    <img src="/assets/logo/logo.png" alt="Tes-tee logo">
+</p>
+
 An internationally acclaimed (fake) shirt brand for developers. A collection of beautiful shirts
  designed by (fake) artists around the world. Also a (real) test for front-end developers aiming
   for a position at Advance Comunicação, a super real full-service agency based in Fortaleza, Ceará.
